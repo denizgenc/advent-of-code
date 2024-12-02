@@ -1,0 +1,12 @@
+[submodule "advent-2023"]
+	path = 2023
+	url = git@github.com:denizgenc/advent-2023.git
+[submodule "advent-2021"]
+	path = 2021
+	url = git@github.com:denizgenc/advent-2021.git
+[submodule "advent-2020"]
+	path = 2020
+	url = git@github.com:denizgenc/advent-2020.git
+[submodule "advent2018"]
+	path = 2018
+	url = git@github.com:denizgenc/advent2018.git
