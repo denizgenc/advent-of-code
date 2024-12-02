@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import List
 import urllib.request
 
-CACHE_DIR = Path.cwd() / "__inputcache__"
+CACHE_DIR = Path.cwd() / ".inputcache"
 
 def get_data(advent_day: int) -> List[str]:
     cache_path = CACHE_DIR / f"day_{advent_day}.txt"
